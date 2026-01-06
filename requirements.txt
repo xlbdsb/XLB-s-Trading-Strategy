@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+numpy
+pandas-datareader
+plotly
+requests
+beautifulsoup4
+fear-greed-index
+lxml
