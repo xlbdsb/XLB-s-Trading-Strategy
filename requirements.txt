@@ -2,9 +2,8 @@ streamlit
 yfinance
 pandas
 numpy
-pandas-datareader
+pandas_datareader
 plotly
 requests
 beautifulsoup4
-fear-greed-index
 lxml
